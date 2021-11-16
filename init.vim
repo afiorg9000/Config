@@ -59,8 +59,6 @@ map <leader>n :NERDTreeToggle <CR>
 map <C-t> :tabnew <CR>
 map <C-/> <Plug>NERDComToggleComment!
 
-" Plugins
-execute pathogen#infect()
 
 " Change colorscheme from default to solarized
 syntax enable
